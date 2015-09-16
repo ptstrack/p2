@@ -1,4 +1,4 @@
-# Welcome to P2 Problem Set!
+# Welcome to P2 Problem Set
 
 ## Live URL
 <http://p2.strack-works.com>
