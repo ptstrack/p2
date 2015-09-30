@@ -11,7 +11,7 @@ a special character and/or number at the end of the password. Also, the
 words within the password are separated by hyphens.
 
 ## Demo
-Placeholder for now.
+<http://p2.strack-works.com/p2_demo.swf>
 
 ## Details for teaching team
 I struggled with this project early on, trying to do too much without hitting
